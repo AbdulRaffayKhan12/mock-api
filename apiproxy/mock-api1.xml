@@ -1,9 +1,12 @@
-<APIProxy revision="3" name="mock-api1">
+<APIProxy revision="4" name="mock-api1">
     <DisplayName></DisplayName>
     <Description></Description>
-    <CreatedAt>1753888670309</CreatedAt>
-    <LastModifiedAt>1753888670309</LastModifiedAt>
+    <CreatedAt>1753899197441</CreatedAt>
+    <LastModifiedAt>1753899197441</LastModifiedAt>
     <BasePaths>/mock-api1</BasePaths>
+    <Policies>
+        <Policy>Q-q1</Policy>
+    </Policies>
     <ProxyEndpoints>
         <ProxyEndpoint>default</ProxyEndpoint>
     </ProxyEndpoints>
